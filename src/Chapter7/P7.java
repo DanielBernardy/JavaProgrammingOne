@@ -36,8 +36,8 @@ public class P7
     /**
      * Method to take the input for an array
      * 
-     * @param list
-     * @param input 
+     * @param list array from main
+     * @param input scanner from main
      */
     public static void input(int [] list, Scanner input)
     {
