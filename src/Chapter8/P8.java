@@ -1,7 +1,7 @@
 package Chapter8;
 import java.util.*;
 /**
- * Program to 
+ * Program to record and add the amounts of sales salesman make
  * 
  * @author Daniel Bernardy
  */
